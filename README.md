@@ -1,5 +1,10 @@
 # Multiplication table CLI
 
+### Install application
+```shell
+$ npm install
+```
+
 ### Run application
 ```shell
 $ node app.js
